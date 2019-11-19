@@ -1,0 +1,8 @@
+{
+  "name": "@gopal/vuegreenaudioplayer",
+  "version": "1.0.0",
+  "description": "Vue wrapper for green audio player plugin",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
