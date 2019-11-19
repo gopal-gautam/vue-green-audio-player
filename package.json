@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "Vue wrapper for green audio player plugin",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gopal-gautam/vue-green-audio-player.git"
+  }
 }
